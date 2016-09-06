@@ -1,0 +1,4 @@
+---
+# vars file for ansible-nload
+nload_packages:
+  - nload
